@@ -1,1 +1,1 @@
-# TEprojectt
+# TEproject
