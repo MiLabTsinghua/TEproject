@@ -25,7 +25,7 @@ TEproject/
 |   ├── 00_Preprocessing.R    # Single-cell data preprocessing
 |   ├── 01_Integration.R      # Multi-sample integration analysis
 |   ├── 02_hdWGCNA.R         # Co-expression network analysis with hdWGCNA
-|   └── 03_TCseq.R          # TE expression dynamics analysis with TCseq (to be added)
+|   └── 03_TCseq.R          # TE expression dynamics analysis with TCseq
 └── data/
     └── mouse_te.txt          # Mouse transposable element annotations
 ```
